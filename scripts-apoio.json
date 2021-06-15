@@ -1,0 +1,15 @@
+{
+    "execucao_lista":[
+      "producao",
+      "homologacao",
+      "local"
+    ],
+    "execucao": "local",
+    "base_homologacao_oracle": "base01",
+    "base_homologacao_sql_server": "base01",
+    "quantidade_reg_commits":10000,
+    "diretorio": {
+      "log": "C:/Log/"
+    },
+    "data_execucao_manual": 20200817
+  }
