@@ -1,4 +1,4 @@
-# SCRIPTS-APOP
+# SCRIPTS-APOIO
 
   Projeto desenvolvido em Python3.9 compilado pelo cx-Freeze==6.5.3 para Windows.
 
